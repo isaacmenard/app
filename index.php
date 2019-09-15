@@ -1,1 +1,1 @@
-<?php echo salut ?>
+<?php echo "salut" ?>
